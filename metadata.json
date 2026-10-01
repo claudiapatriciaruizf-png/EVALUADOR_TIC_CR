@@ -1,0 +1,6 @@
+{
+  "name": "SENA - Asistente de Evaluación Pedagógica",
+  "description": "Asistente inteligente para instructores SENA para evaluar evidencias de aprendizaje de Documentos Comerciales, Word y Excel (Básico, Intermedio y Avanzado) con retroalimentación pedagógica y técnica detallada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
